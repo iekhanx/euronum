@@ -1,0 +1,5 @@
+export ARCH=arm
+# export PATH=/home/uidj4711/gcc-linaro_4.8/bin/arm-linux-gnueabi-
+export CROSS_COMPILE=/usr/bin
+
+
